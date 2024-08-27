@@ -11,7 +11,7 @@ To compile and run this program, you'll need:
 
 ## Compilation
 
-You can easily compile the program using the provided Makefile. Simply navigate to the directory where the Makefile exists and enter: :
+You can easily compile the program using the provided Makefile. Simply navigate to the directory where the Makefile exists and enter :
 
 ```bash
 make
