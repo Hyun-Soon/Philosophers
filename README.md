@@ -11,7 +11,7 @@ To compile and run this program, you'll need:
 
 ## Compilation
 
-You can easily compile the program using the provided Makefile. Go to root of the project you want to run and enter :
+You can easily compile the program using the provided Makefile. Simply navigate to the directory where the Makefile exists and enter: :
 
 ```bash
 make
@@ -24,7 +24,7 @@ gcc -I/headers ./srcs/*
 ```
 
 ## Run
-ex. philo_mutex 4 410 200 200 \[3\]
+ex. ./program_name 4 410 200 200 \[3\]
 
 - arg1 : number of philosophers
 - arg2 : time to die
